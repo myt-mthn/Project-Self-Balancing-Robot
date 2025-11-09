@@ -107,33 +107,7 @@ Best practices for stable performance
 
 📄 File: Manual_5_Implementation_and_Code.pdf
 
-🧠 Project Architecture
-        +----------------+
-        |   MPU6050      |
-        +--------+-------+
-                 |
-          Angle (Filtered)
-                 |
-        +--------v--------+
-        |     PID Control |
-        +--------+--------+
-                 |
-         Motor Speed & Direction
-                 |
-        +--------v--------+
-        |   L293D Driver  |
-        +--------+--------+
-                 |
-              Motors
-
-🔌 Hardware Used
-Component	Details
-MPU6050	6-axis IMU
-Arduino UNO	Main controller
-L293D Driver	Motor driver IC
-DC Motors	With wheels
-Battery	7.4V recommended
-Chassis	Rigid & balanced
+-------------------------------------------
 
 🚀 What You Will Learn From This Series
 
