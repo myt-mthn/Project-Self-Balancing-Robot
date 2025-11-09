@@ -63,7 +63,7 @@ Battery choices
 
 Building a rigid, vibration-free frame
 
-📄 File: Manual-3-Electronics.pdf
+📄 File: Manual-3-ELECTRONICS.pdf
 
 📘 Manual 4 — Control Theory: Complementary Filter + PID
 
@@ -83,7 +83,7 @@ Understanding Kp, Ki, Kd
 
 PID behavior with examples and graphs
 
-📄 File: Manual-4-FullControlSystem.pdf
+📄 File: Manual-4-Full Control System.pdf
 
 📘 Manual-5-Final.pdf
 
